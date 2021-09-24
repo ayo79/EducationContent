@@ -3,7 +3,7 @@
 # Activity: Pyramid
 
 ## Step 1
-Copy the Starter Code. Copy the code from the hint.
+Copy the Starter Code. Copy the code from the hint.!!
 
 ### ~ tutorialhint
 ``` blocks
