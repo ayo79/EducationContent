@@ -1,8 +1,8 @@
 ### @explicitHints 1
-# Activity: Maze Generation
+# Activity: Maze Generation 미로 생성
 
 ## Step 1
-Use the starter code presented. 
+Use the starter code presented. 단계1
 
 ```template
 let dirs: number[] = []
