@@ -2,7 +2,7 @@
 # Activity: Chicken Storm 
 
 ## Step 1
-Drag an ``||Player:on chat||`` command into the coding Workspace and change the command to **"chickens"**.
+111Drag an ``||Player:on chat||`` command into the coding Workspace and change the command to **"chickens"**.
 
 ## Step 2
 Add a ``||Loops:repeat||`` loop inside ``||Player:on chat command||`` "chickens".
